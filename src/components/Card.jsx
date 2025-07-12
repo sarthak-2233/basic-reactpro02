@@ -21,4 +21,6 @@ function Card() {
   )
 }
 
+
+// card making 
 export default Card
